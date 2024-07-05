@@ -8,12 +8,12 @@ categories: x86 assembly hpc
 
 Here are some examples of common assembly instructions in x86 : 
 
-| instruction | description |
-|-------------|-------------|
-|`test`       ||
-|`jle`        ||
-|`mov`        ||
-|`cmp`        ||  
-|`jb`         ||
-|`lea`        ||
-|`xor`        ||
+| Instruction | Description | Example           |
+|-------------|-------------|-------------------|
+|`test`       |||
+|`jle`        |||
+|`mov`        |||
+|`cmp`        ||| 
+|`jb`         |||
+|`lea`        |||
+|`xor`        |||
